@@ -1,0 +1,48 @@
+{
+	"storyName": "Rhythmic Rage",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"Mia",
+		"bf",
+		"gf"
+	],
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Mi-opera",
+			"mia",
+			[
+				255,
+				104,
+				237
+			]
+		],
+		[
+			"Mia battle",
+			"mia",
+			[
+				255,
+				104,
+				237
+			]
+		],
+		[
+			"Diva",
+			"mia",
+			[
+				255,
+				104,
+				237
+			]
+		]
+	],
+	"weekName": "Rhythmic Rage"
+}

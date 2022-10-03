@@ -1,0 +1,31 @@
+{
+	"storyName": "Tormented Dreams",
+	"difficulties": "Hard, Get Real",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Triple B Trouble",
+			"evil",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"monstergf",
+		"bf",
+		"gf"
+	],
+	"weekName": "EXE"
+}

@@ -1,22 +1,58 @@
 {
-	"songs": [
-		["Bopeebo", "dad", [146, 113, 253]],
-		["Fresh", "dad", [146, 113, 253]],
-		["Dad Battle", "dad", [146, 113, 253]]
+	"storyName": "A Bloodsucker Brawl",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Bopeebo",
+			"dad",
+			[
+				110,
+				93,
+				113
+			]
+		],
+		[
+			"Fresh",
+			"dad",
+			[
+				110,
+				93,
+				113
+			]
+		],
+		[
+			"Dad Battle",
+			"dad",
+			[
+				110,
+				93,
+				113
+			]
+		],
+		[
+			"Problem",
+			"dad",
+			[
+				110,
+				93,
+				113
+			]
+		]
+	],
 	"weekCharacters": [
 		"dad",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "stage",
-
-	"storyName": "Daddy Dearest",
-	"weekBefore": "tutorial",
-	"weekName": "Week 1",
-	"startUnlocked": true,
-
-	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "Custom Week"
 }

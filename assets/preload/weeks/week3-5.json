@@ -1,0 +1,39 @@
+{
+	"storyName": "Making Up for the Past",
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week3",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"pico",
+		"bf",
+		"gf"
+	],
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Harmony",
+			"pico",
+			[
+				131,
+				0,
+				31
+			]
+		],
+		[
+			"F U",
+			"pico",
+			[
+				131,
+				0,
+				31
+			]
+		]
+	],
+	"weekName": "Harmony"
+}
